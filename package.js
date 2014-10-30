@@ -1,6 +1,6 @@
 Package.describe({
-    summary: "Meteor unit testing framework for packages",
-    name: "spacejamio:munit",
+    summary: "Temporary fork for Mocha like async tests",
+    name: "respondly:munit",
     version: "2.1.1",
     git: "https://github.com/spacejamio/meteor-munit.git"
 });
